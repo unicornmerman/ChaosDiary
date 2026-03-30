@@ -1,0 +1,5 @@
+{
+  "name": "Respect the Chaos",
+  "description": "A high-velocity dream capture and reflection system based on the Chaos V2.1 specification.",
+  "requestFramePermissions": ["microphone"]
+}
